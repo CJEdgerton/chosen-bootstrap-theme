@@ -1,5 +1,5 @@
 /* 
- *  chosen-bootstrap-theme - v1.0.5
+ *  chosen-bootstrap-theme - v1.0.6
  *  Author: Weston Ganger (GitHub: @westonganger)
  *  Homepage: https://github.com/westonganger/chosen-bootstrap-theme
  */
@@ -19,6 +19,8 @@
   -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   background-image: none; }
+  .chosen-container.chosen-container-single .chosen-single span {
+    color: #999; }
   .chosen-container.chosen-container-single .chosen-single div {
     top: 4px;
     color: #000; }
